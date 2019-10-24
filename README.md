@@ -35,6 +35,3 @@ Skip lockons and instantly heals/cleanses party members.
 
 ## Issues
 - Skills can ghost if proxy is also using Skill-Prediction (You see animation but nothing happens). Workaround is to disable the skills in SP. [Click here to see how](https://i.imgur.com/bS4VkbX.png)
-
----
-"# Auto-Heal" 
