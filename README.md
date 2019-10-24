@@ -1,4 +1,4 @@
-# auto-heal
+# Auto Heal
 Skip lockons and instantly heals/cleanses party members.
 
 ## Info
