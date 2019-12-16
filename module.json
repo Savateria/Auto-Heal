@@ -1,9 +1,9 @@
 {
     "disableAutoUpdate": false,
-	"name": "Auto Heal",
+	"name": "Auto-Heal",
 	"author": "Savateria",
 	"description": "Auto lockon and instantly heal/cleanse party members.",
-    "version": "4/26/2019",
+    "version": "16/12/2019",
 	"options": {
 		"niceName": "Auto Heal",
         "settingsVersion": 1,
