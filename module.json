@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "name": "Auto-Heal",
     "author": "Savateria",
     "description": "Auto lockon and instantly heal/cleanse party members.",
