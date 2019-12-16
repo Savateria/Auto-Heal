@@ -1,15 +1,15 @@
 {
-    "disableAutoUpdate": false,
-	"name": "Auto-Heal",
-	"author": "Savateria",
-	"description": "Auto lockon and instantly heal/cleanse party members.",
+    "disableAutoUpdate": true,
+    "name": "Auto-Heal",
+    "author": "Savateria",
+    "description": "Auto lockon and instantly heal/cleanse party members.",
     "version": "16/12/2019",
-	"options": {
-		"niceName": "Auto Heal",
+    "options": {
+        "niceName": "Auto Heal",
         "settingsVersion": 1,
         "settingsFile": "config.json",
-        "settingsMigrator": "settings_migrator.js"    
-	},
+        "settingsMigrator": "settings_migrator.js"
+    },
     "servers": ["https://raw.githubusercontent.com/Savateria/Auto-Heal/master/"],
     "supportUrl": "https://github.com/Savateria/Auto-Heal/issues"
 }
