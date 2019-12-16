@@ -1,31 +1,32 @@
 {
-  "files": {
-    "config.json": {
-        "overwrite": false,
-        "hash": "463d9e4fe4c7c80a73f86318175b5d88111737b78c54146063bf8f7c7631f544"
+    "files": {
+        "README.MD": "28da4201eb2b175098e43781beb1345340142abb9ed572008f4490ac9ddf3653",
+        "config.json": {
+            "overwrite": false,
+            "hash": "3551d1b6f0a044e5eeb7b7b0f5442a024b4aca1a992e8a25412d76b22b5d538c"
+        },
+        "index.js": "aaafb7b88dbc3a4f1e2122419d2d22a89179c106ffcca9dc83f348b1840c38f7",
+        "module.json": "5e3822e26a38c605d5ca7e5b61f8feab4c9e31f0c738e9055655d02a0b8e1ac7",
+        "settings_migrator.js": "b0e512fd38e47d4153993a485b4068c8a915a16cc4f9be89285280c73d0f0c7b"
     },
-    "index.js": "aaafb7b88dbc3a4f1e2122419d2d22a89179c106ffcca9dc83f348b1840c38f7",
-    "module.json": "20a74a781c9dcd68c6d2a861921bb685bd64db30b6545980652d712998009acc",
-    "settings_migrator.js": "b0e512fd38e47d4153993a485b4068c8a915a16cc4f9be89285280c73d0f0c7b"
-  },
-  "defs": {
-    "C_CAN_LOCKON_TARGET": 3,
-    "C_PLAYER_LOCATION": 5,
-    "C_START_SKILL": 7,
-    "S_BAN_PARTY_MEMBER": 1,
-    "S_CREST_APPLY": 2,
-    "S_CREST_INFO": 2,
-    "S_DEAD_LOCATION": 2,
-    "S_INSTANT_DASH": 3,
-    "S_LEAVE_PARTY": 1,
-    "S_LEAVE_PARTY_MEMBER": 2,
-    "S_LOGOUT_PARTY_MEMBER": 1,
-    "S_PARTY_MEMBER_CHANGE_HP": 4,    
-    "S_PARTY_MEMBER_LIST": 7,
-    "S_PARTY_MEMBER_STAT_UPDATE": 3,    
-    "S_SPAWN_ME": 3,
-    "S_SPAWN_USER": 15,
-    "S_USER_LOCATION": 5,
-    "S_USER_LOCATION_IN_ACTION": 2
-  }
+    "defs": {
+        "C_CAN_LOCKON_TARGET": 3,
+        "C_PLAYER_LOCATION": 5,
+        "C_START_SKILL": 7,
+        "S_BAN_PARTY_MEMBER": 1,
+        "S_CREST_APPLY": 2,
+        "S_CREST_INFO": 2,
+        "S_DEAD_LOCATION": 2,
+        "S_INSTANT_DASH": 3,
+        "S_LEAVE_PARTY": 1,
+        "S_LEAVE_PARTY_MEMBER": 2,
+        "S_LOGOUT_PARTY_MEMBER": 1,
+        "S_PARTY_MEMBER_CHANGE_HP": 4,
+        "S_PARTY_MEMBER_LIST": 7,
+        "S_PARTY_MEMBER_STAT_UPDATE": 3,
+        "S_SPAWN_ME": 3,
+        "S_SPAWN_USER": 15,
+        "S_USER_LOCATION": 5,
+        "S_USER_LOCATION_IN_ACTION": 2
+    }
 }
