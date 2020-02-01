@@ -21,7 +21,7 @@ Skip lockons and instantly heals/cleanses party members.
 - Enables/disables auto-heals
 ### `autoheal [HP]`
 - Set cutoff for healing. ('autoheal 50' = ignore members with >50% HP. Set to 100 to always heal)
-- Default cutoff is 97%
+- Default cutoff is 85%
 ### `autocleanse`
 - Toggle on/off
 - Default is on
